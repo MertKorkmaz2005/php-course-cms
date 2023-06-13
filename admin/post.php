@@ -3,10 +3,6 @@
 
     <div id="wrapper">
 
-    <?php
-  
-    ?>
-
 
 
 
@@ -30,10 +26,19 @@
                 <!-- Page Heading -->
                 <div class="row">
                     <div class="col-lg-12">
-                        <h1 class="page-header">
+                    <h1 class="page-header">
                             Welcome to admin
                             <small>author</small>
                         </h1>
+            
+
+
+
+
+
+
+
+                     
                     </div>
                 </div>
                 <!-- /.row -->
@@ -45,3 +50,4 @@
         <!-- /#page-wrapper -->
 
         <?php include "includes/admin_footer.php" ?>
+</div>

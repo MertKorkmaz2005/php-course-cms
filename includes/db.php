@@ -23,8 +23,8 @@
 
 $connection = mysqli_connect('localhost','root','','cms');
     // var_dump($connection);
-if($connection){
-    echo "we are connected";
-}
+// if($connection){
+// //     echo "we are connected";
+// // }
 
 ?>
